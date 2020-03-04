@@ -20,6 +20,10 @@ a{
     text-decoration: none;
 }
 
+.image p{
+    font-size: 1.3rem;
+    color: #fff;
+}
 .section-1{
 	padding-top: 40vh;
     padding-left: 20vw;
