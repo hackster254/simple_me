@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+html {
+    box-sizing: border-box;
+}
 .grid-2{
 	display: grid;
 	grid-template-columns: repeat(2,1fr);
